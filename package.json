@@ -1,7 +1,7 @@
 {
   "name": "educator-js-codespace-template",
   "version": "1.0.0",
-  "description": "Javeria's Portfolio",
+  "description": "Educator JS Codespace Template",
   "source": "src/index.html",
   "homepage": "https://javeeriiaaa.github.io/Javeria_PortfolioWebsite",
   "scripts": {
