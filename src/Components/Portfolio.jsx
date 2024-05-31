@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/image.png";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "GlowCare - A Skincare Website",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Collaborated with my group mates to create a website for our Full Stack Web Development Course. This project is created using MERN Stack",
+    url: "https://github.com/mahrukh-dev/glow-care-mern",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Pet Planet",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Created a mobile application for pet lovers using Flutter. This app is designed to help pet owners find the best pet care services in their area.",
+    url: "https://github.com/javeeriiaaa/PetPlanet_App",
   },
   {
-    title: "My Resume Site",
+    title: "Next Knock",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Collaborated with a team to create an app for hostel students to find hostel rooms. This app is created using Flutter. I worked on creating multiple screens and integrating the backend.",
+    url: "https://github.com/devupix1/next_knock_app",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Hand Gesture Controlled Game",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Created a game with my group mates using Python, MediaPipe, and OpenCV. This game is controlled using hand gestures.",
+    url: "https://github.com/mahrukh-dev/HandGestureCarGame",
   },
 ];
 
